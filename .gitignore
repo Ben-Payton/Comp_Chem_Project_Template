@@ -1,0 +1,10 @@
+# Files for gaussian jobs and general submission scripts that don't need to be tracked
+*.s
+*.chk
+*fort.7
+*core*
+*slurm*
+# Files for Lammps jobs that don't need to be tracked or are too big to track
+*.log
+
+*bonds.reaxff
