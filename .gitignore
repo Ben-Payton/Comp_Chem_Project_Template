@@ -8,3 +8,5 @@
 *.log
 
 *bonds.reaxff
+
+.obsidian
